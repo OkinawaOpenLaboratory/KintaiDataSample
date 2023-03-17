@@ -2,6 +2,8 @@
 
 本リポジトリは検証用に作成した勤怠データ3ヶ月分(2022年11月1日〜2023年1月31日)のExcelファイルを公開しています。
 
+勤怠データを使用した勤怠レポート作成例は[こちら](https://github.com/OkinawaOpenLaboratory/KintaiDataSample/blob/main/CreateKintaiReport.md)を参照してください。
+
 ## 勤怠データの項目
 
 | データの項目 | データ型 | 説明 |
